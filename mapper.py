@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
 # mapper for X-MN matrix function
 # matrix input should be in form of 'matrix_identifier,row_number,[row values]', 1 is matrix M, 2 is matrix N, 3 is matrix X
 # parameter input should be rows of matrix M, and columns in matrix N
